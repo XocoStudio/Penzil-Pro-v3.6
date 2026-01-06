@@ -16,7 +16,7 @@ Penzil Pro ahora incluye **selección de trazos**, **efectos luminosos** y **com
 
 ![Hero Image](https://xocostudio.github.io/Penzil-Pro-v3/Penzil-AR.png)
 
-App: [https://xocostudio.github.io/Penzil-Pro-v3/](https://xocostudio.github.io/Penzil-Pro-v3/)
+App: [https://xocostudio.github.io/Penzil-Pro-v3/](https://xocostudio.github.io/Penzil-Pro-v3.6/)
 
 
 👉 **Repositorio oficial:** [https://github.com/jacopocolo/Penzil](https://github.com/jacopocolo/Penzil)  
